@@ -5,6 +5,7 @@
 ### Frosted Glass Rewrite
 ![FrostedGlassRewrite](https://i.imgur.com/0WwugI6.jpg)
 
+#### Note: please refer to using [Speedy321's fork](https://github.com/Speedy321/Altens-betterdiscord-Themes-Plugins/blob/master/Themes/FrostedGlassRewrite.theme.css) instead
 Finally the rewrite is here, and better than ever (although there may be a few bugs i havent fixed)
 you may have to completely restart discord for the theme to have an actual effect on discord
 
